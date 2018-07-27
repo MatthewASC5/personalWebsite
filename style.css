@@ -26,3 +26,11 @@ ul{
     color: white;
     width: 4px
  }
+
+ div {
+    background: silver;
+    border: solid 1px purple;
+     width: 100%;
+     margin: auto;
+    
+ }
